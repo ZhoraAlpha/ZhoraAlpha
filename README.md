@@ -1,5 +1,5 @@
 - 👋 Привет, Я @ZhoraAlpha
-- 👀 Я интересуюсь веб-сайтами, программированием на Python
+- 👀 I’m interested in websites, Python
 - 🌱 I’m currently learning Python, JS, HTML, CSS
 - 📫 How to reach me https://linktr.ee/zhora.alfa
 
